@@ -203,9 +203,9 @@
         <br><br>
 
         <!-- MOSTRAR TODAS -->
-        <a href="<%= request.getContextPath() %>/SvCartaListar">
+        <a href="<%= request.getContextPath() %>/index.html">
             <button type="button" class="btn-mostrar">
-                Mostrar todas
+               Volver al menu
             </button>
         </a>
 
@@ -291,10 +291,7 @@
 
     <br>
 
-    <a href="<%= request.getContextPath() %>/index.html">
-        Volver al menú
-    </a>
-
+    
 </div>
 
 </body>

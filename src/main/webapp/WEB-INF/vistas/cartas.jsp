@@ -41,13 +41,19 @@
             <option value="Planta">Planta</option>
             <option value="Fuego">Fuego</option>
             <option value="Agua">Agua</option>
-            <option value="Rayo">Rayo</option>
+            <option value="Electrico">Electrico</option>
             <option value="Psíquico">Psíquico</option>
             <option value="Lucha">Lucha</option>
-            <option value="Oscuridad">Oscuridad</option>
-            <option value="Metal">Metal</option>
+            <option value="Siniestro">Siniestro</option>
+            <option value="Acero">Acero</option>
             <option value="Dragón">Dragón</option>
-            <option value="Incoloro">Incoloro</option>
+              <option value="Normal">Normal</option>
+             <option value="Tierra">Tierra</option>
+            <option value="Roca">Roca</option>
+            <option value="Veneno">Veneno</option>
+            <option value="Hada">Hada</option>
+            
+            <option value="Entrenador">Entrenador</option>
         </select>
 
         <label>Rareza:</label>
@@ -57,7 +63,9 @@
             <option value="Poco común">Poco común</option>
             <option value="Rara">Rara</option>
             <option value="Doble rara">Doble rara</option>
-            <option value="Ilustración especial">Ilustración especial</option>
+            <option value="Rainbow">Rainbow</option>
+            <option value="Full Art">Full Art</option>
+            <option value="Promo">Promo</option>
         </select>
 
         <label>Número de carta:</label>
